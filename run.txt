@@ -1,0 +1,12 @@
+### add OPENAI key in Linux
+
+export OPENAI_API_KEY="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"
+export SERPAPI_API_KEY=""
+
+### add OPENAI key in Windows
+
+set OPENAI_API_KEY=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
+set SERPAPI_API_KEY=
+
+
+streamlit run News_Aggregator.py
